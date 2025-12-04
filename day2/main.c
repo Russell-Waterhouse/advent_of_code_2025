@@ -19,7 +19,6 @@ int main() {
     puts("Failed to alloc memory");
     exit(-1);
   }
-  /*input_file = fopen("sample.txt", "r");*/
   input_file = fopen("input.txt", "r");
 
   if (NULL == input_file) {
@@ -94,6 +93,7 @@ i32 str_is_invalid(String* s){
   for (i = 0; i < (s->size / 2); i++) {
     /*printf("\tComparing %c to %c\n", s->str[i], s->str[i*2]);*/
     if (s->str[i] != s->str[i + (s->size / 2)]) {
+      printf("\tValid string: %c != %c in %s\n", s->str[i], s->str[i + (s->size / 2)], s->str);
       return 0;
     }
   }
