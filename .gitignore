@@ -1,4 +1,5 @@
 day1/a
-day2/input.txt
 day2/a
-day2/test.txt
+*/**/input.txt
+*/**/sample.txt
+*/**/test.txt
