@@ -3,16 +3,16 @@
 #include "types.h"
 #include "strings.c"
 
-u32 LINE_SIZE = 10 * 1000; /* ten kilobytes */
+u64 LINE_SIZE = 10 * 1000; /* ten kilobytes */
 
-i32 num_invalid_inputs_per_range(String* range);
-i32 str_is_invalid(String* s);
+u64 num_invalid_inputs_per_range(String* range);
+u64 str_is_invalid(String* s);
 
 int main() {
   FILE* input_file;
   String* line;
-  u32 part1_answer = 0;
-  u32 part2_answer = 0;
+  u64 part1_answer = 0;
+  u64 part2_answer = 0;
   char* input = calloc(LINE_SIZE, sizeof(char));
 
   if (NULL == input) {
@@ -39,23 +39,23 @@ int main() {
     exit(-1);
   }
 
-  u32 i;
+  u64 i;
   for (i = 0; i < split_result.num_strs; i++) {
     String s = split_result.strs->arr[i];
     part1_answer += num_invalid_inputs_per_range(&s);
   }
 
 
-  printf("Part 1 answer is %d\n", part1_answer);
-  printf("Part 2 answer is %d\n", part2_answer);
+  printf("Part 1 answer is %lu\n", part1_answer);
+  printf("Part 2 answer is %lu\n", part2_answer);
   free_str_or_die(line);
   free(input);
   exit(0);
 }
 
 
-i32 num_invalid_inputs_per_range(String* range) {
-  i32 invalid_nums_count = 0;
+u64 num_invalid_inputs_per_range(String* range) {
+  u64 invalid_nums_count = 0;
   SplitResult range_strs = split_str_or_die(range, '-');
   u64 i;
   if (range_strs.num_strs != 2) {
@@ -79,7 +79,7 @@ i32 num_invalid_inputs_per_range(String* range) {
 }
 
 
-i32 str_is_invalid(String* s){
+u64 str_is_invalid(String* s){
   if (!s) {
     puts("Null passed to str_is_palindrome");
     exit(-1);
@@ -89,7 +89,7 @@ i32 str_is_invalid(String* s){
     return 0;
   }
 
-  u32 i;
+  u64 i;
   for (i = 0; i < (s->size / 2); i++) {
     /*printf("\tComparing %c to %c\n", s->str[i], s->str[i*2]);*/
     if (s->str[i] != s->str[i + (s->size / 2)]) {
