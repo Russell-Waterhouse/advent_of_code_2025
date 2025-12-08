@@ -1,0 +1,5082 @@
+Processing 11
+	About to loop over 11, 2
+	11, i: 1; j: 0; k: 366256096
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+SUCCESSFUL_FIND: 11
+Processing 12
+	About to loop over 12, 2
+	12, i: 1; j: 2; k: 366256096
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+ignoring: 12
+	End iteration, returning 0
+Processing 13
+	About to loop over 13, 2
+	13, i: 1; j: 2; k: 366256096
+	 in the outer for loop
+	Comparing 1 at index 0 to 3 at index 1; i: 1; j: 1; k: 0
+ignoring: 13
+	End iteration, returning 0
+Processing 14
+	About to loop over 14, 2
+	14, i: 1; j: 2; k: 366256096
+	 in the outer for loop
+	Comparing 1 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+ignoring: 14
+	End iteration, returning 0
+Processing 15
+	About to loop over 15, 2
+	15, i: 1; j: 2; k: 366256096
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 1; i: 1; j: 1; k: 0
+ignoring: 15
+	End iteration, returning 0
+Processing 16
+	About to loop over 16, 2
+	16, i: 1; j: 2; k: 366256096
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+ignoring: 16
+	End iteration, returning 0
+Processing 17
+	About to loop over 17, 2
+	17, i: 1; j: 2; k: 366256096
+	 in the outer for loop
+	Comparing 1 at index 0 to 7 at index 1; i: 1; j: 1; k: 0
+ignoring: 17
+	End iteration, returning 0
+Processing 18
+	About to loop over 18, 2
+	18, i: 1; j: 2; k: 366256096
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+ignoring: 18
+	End iteration, returning 0
+Processing 19
+	About to loop over 19, 2
+	19, i: 1; j: 2; k: 366256096
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 1; i: 1; j: 1; k: 0
+ignoring: 19
+	End iteration, returning 0
+Processing 20
+	About to loop over 20, 2
+	20, i: 1; j: 2; k: 366256096
+	 in the outer for loop
+	Comparing 2 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+ignoring: 20
+	End iteration, returning 0
+Processing 21
+	About to loop over 21, 2
+	21, i: 1; j: 2; k: 366256096
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+ignoring: 21
+	End iteration, returning 0
+Processing 22
+	About to loop over 22, 2
+	22, i: 1; j: 2; k: 366256096
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+SUCCESSFUL_FIND: 22
+Processing 11
+	About to loop over 11, 2
+	11, i: 1; j: 2; k: 366266496
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+SUCCESSFUL_FIND: 11
+Processing 12
+	About to loop over 12, 2
+	12, i: 1; j: 2; k: 366266496
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+ignoring: 12
+	End iteration, returning 0
+Processing 13
+	About to loop over 13, 2
+	13, i: 1; j: 2; k: 366266496
+	 in the outer for loop
+	Comparing 1 at index 0 to 3 at index 1; i: 1; j: 1; k: 0
+ignoring: 13
+	End iteration, returning 0
+Processing 14
+	About to loop over 14, 2
+	14, i: 1; j: 2; k: 366266496
+	 in the outer for loop
+	Comparing 1 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+ignoring: 14
+	End iteration, returning 0
+Processing 15
+	About to loop over 15, 2
+	15, i: 1; j: 2; k: 366266496
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 1; i: 1; j: 1; k: 0
+ignoring: 15
+	End iteration, returning 0
+Processing 16
+	About to loop over 16, 2
+	16, i: 1; j: 2; k: 366266496
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+ignoring: 16
+	End iteration, returning 0
+Processing 17
+	About to loop over 17, 2
+	17, i: 1; j: 2; k: 366266496
+	 in the outer for loop
+	Comparing 1 at index 0 to 7 at index 1; i: 1; j: 1; k: 0
+ignoring: 17
+	End iteration, returning 0
+Processing 18
+	About to loop over 18, 2
+	18, i: 1; j: 2; k: 366266496
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+ignoring: 18
+	End iteration, returning 0
+Processing 19
+	About to loop over 19, 2
+	19, i: 1; j: 2; k: 366266496
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 1; i: 1; j: 1; k: 0
+ignoring: 19
+	End iteration, returning 0
+Processing 20
+	About to loop over 20, 2
+	20, i: 1; j: 2; k: 366266496
+	 in the outer for loop
+	Comparing 2 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+ignoring: 20
+	End iteration, returning 0
+Processing 21
+	About to loop over 21, 2
+	21, i: 1; j: 2; k: 366266496
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+ignoring: 21
+	End iteration, returning 0
+Processing 22
+	About to loop over 22, 2
+	22, i: 1; j: 2; k: 366266496
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+SUCCESSFUL_FIND: 22
+Processing 95
+	About to loop over 95, 2
+	95, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 9 at index 0 to 5 at index 1; i: 1; j: 1; k: 0
+ignoring: 95
+	End iteration, returning 0
+Processing 96
+	About to loop over 96, 2
+	96, i: 1; j: 2; k: 366272784
+	 in the outer for loop
+	Comparing 9 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+ignoring: 96
+	End iteration, returning 0
+Processing 97
+	About to loop over 97, 2
+	97, i: 1; j: 2; k: 366272784
+	 in the outer for loop
+	Comparing 9 at index 0 to 7 at index 1; i: 1; j: 1; k: 0
+ignoring: 97
+	End iteration, returning 0
+Processing 98
+	About to loop over 98, 2
+	98, i: 1; j: 2; k: 366272784
+	 in the outer for loop
+	Comparing 9 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+ignoring: 98
+	End iteration, returning 0
+Processing 99
+	About to loop over 99, 2
+	99, i: 1; j: 2; k: 366272784
+	 in the outer for loop
+	Comparing 9 at index 0 to 9 at index 1; i: 1; j: 1; k: 0
+SUCCESSFUL_FIND: 99
+Processing 100
+	About to loop over 100, 3
+	100, i: 1; j: 2; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+ignoring: 100
+	End iteration, returning 0
+Processing 101
+	About to loop over 101, 3
+	101, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 1; j: 2; k: 0
+ignoring: 101
+	End iteration, returning 0
+Processing 102
+	About to loop over 102, 3
+	102, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+ignoring: 102
+	End iteration, returning 0
+Processing 103
+	About to loop over 103, 3
+	103, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 3 at index 2; i: 1; j: 2; k: 0
+ignoring: 103
+	End iteration, returning 0
+Processing 104
+	About to loop over 104, 3
+	104, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+ignoring: 104
+	End iteration, returning 0
+Processing 105
+	About to loop over 105, 3
+	105, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+ignoring: 105
+	End iteration, returning 0
+Processing 106
+	About to loop over 106, 3
+	106, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+ignoring: 106
+	End iteration, returning 0
+Processing 107
+	About to loop over 107, 3
+	107, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 7 at index 2; i: 1; j: 2; k: 0
+ignoring: 107
+	End iteration, returning 0
+Processing 108
+	About to loop over 108, 3
+	108, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+ignoring: 108
+	End iteration, returning 0
+Processing 109
+	About to loop over 109, 3
+	109, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+ignoring: 109
+	End iteration, returning 0
+Processing 110
+	About to loop over 110, 3
+	110, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+ignoring: 110
+	End iteration, returning 0
+Processing 111
+	About to loop over 111, 3
+	111, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 1; j: 2; k: 0
+SUCCESSFUL_FIND: 111
+Processing 112
+	About to loop over 112, 3
+	112, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+ignoring: 112
+	End iteration, returning 0
+Processing 113
+	About to loop over 113, 3
+	113, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 3 at index 2; i: 1; j: 2; k: 0
+ignoring: 113
+	End iteration, returning 0
+Processing 114
+	About to loop over 114, 3
+	114, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+ignoring: 114
+	End iteration, returning 0
+Processing 115
+	About to loop over 115, 3
+	115, i: 1; j: 3; k: 366272784
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+ignoring: 115
+	End iteration, returning 0
+Processing 95
+	About to loop over 95, 2
+	95, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 9 at index 0 to 5 at index 1; i: 1; j: 1; k: 0
+ignoring: 95
+	End iteration, returning 0
+Processing 96
+	About to loop over 96, 2
+	96, i: 1; j: 2; k: 366279072
+	 in the outer for loop
+	Comparing 9 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+ignoring: 96
+	End iteration, returning 0
+Processing 97
+	About to loop over 97, 2
+	97, i: 1; j: 2; k: 366279072
+	 in the outer for loop
+	Comparing 9 at index 0 to 7 at index 1; i: 1; j: 1; k: 0
+ignoring: 97
+	End iteration, returning 0
+Processing 98
+	About to loop over 98, 2
+	98, i: 1; j: 2; k: 366279072
+	 in the outer for loop
+	Comparing 9 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+ignoring: 98
+	End iteration, returning 0
+Processing 99
+	About to loop over 99, 2
+	99, i: 1; j: 2; k: 366279072
+	 in the outer for loop
+	Comparing 9 at index 0 to 9 at index 1; i: 1; j: 1; k: 0
+SUCCESSFUL_FIND: 99
+Processing 100
+	About to loop over 100, 3
+	100, i: 1; j: 2; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+ignoring: 100
+	End iteration, returning 0
+Processing 101
+	About to loop over 101, 3
+	101, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 1; j: 2; k: 0
+ignoring: 101
+	End iteration, returning 0
+Processing 102
+	About to loop over 102, 3
+	102, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+ignoring: 102
+	End iteration, returning 0
+Processing 103
+	About to loop over 103, 3
+	103, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 3 at index 2; i: 1; j: 2; k: 0
+ignoring: 103
+	End iteration, returning 0
+Processing 104
+	About to loop over 104, 3
+	104, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+ignoring: 104
+	End iteration, returning 0
+Processing 105
+	About to loop over 105, 3
+	105, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+ignoring: 105
+	End iteration, returning 0
+Processing 106
+	About to loop over 106, 3
+	106, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+ignoring: 106
+	End iteration, returning 0
+Processing 107
+	About to loop over 107, 3
+	107, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 7 at index 2; i: 1; j: 2; k: 0
+ignoring: 107
+	End iteration, returning 0
+Processing 108
+	About to loop over 108, 3
+	108, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+ignoring: 108
+	End iteration, returning 0
+Processing 109
+	About to loop over 109, 3
+	109, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+ignoring: 109
+	End iteration, returning 0
+Processing 110
+	About to loop over 110, 3
+	110, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+ignoring: 110
+	End iteration, returning 0
+Processing 111
+	About to loop over 111, 3
+	111, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 1; j: 2; k: 0
+SUCCESSFUL_FIND: 111
+Processing 112
+	About to loop over 112, 3
+	112, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+ignoring: 112
+	End iteration, returning 0
+Processing 113
+	About to loop over 113, 3
+	113, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 3 at index 2; i: 1; j: 2; k: 0
+ignoring: 113
+	End iteration, returning 0
+Processing 114
+	About to loop over 114, 3
+	114, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+ignoring: 114
+	End iteration, returning 0
+Processing 115
+	About to loop over 115, 3
+	115, i: 1; j: 3; k: 366279072
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+ignoring: 115
+	End iteration, returning 0
+Processing 998
+	About to loop over 998, 3
+	998, i: 1; j: 4; k: 366285360
+	 in the outer for loop
+	Comparing 9 at index 0 to 9 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 9 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+ignoring: 998
+	End iteration, returning 0
+Processing 999
+	About to loop over 999, 3
+	999, i: 1; j: 3; k: 366285360
+	 in the outer for loop
+	Comparing 9 at index 0 to 9 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 9 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+SUCCESSFUL_FIND: 999
+Processing 1000
+	About to loop over 1000, 4
+	1000, i: 1; j: 3; k: 366285360
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 3; i: 1; j: 3; k: 0
+ignoring: 1000
+	1000, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 0 at index 3; i: 2; j: 1; k: 1
+ignoring: 1000
+	End iteration, returning 0
+Processing 1001
+	About to loop over 1001, 4
+	1001, i: 1; j: 2; k: 366285360
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+ignoring: 1001
+	1001, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+ignoring: 1001
+	End iteration, returning 0
+Processing 1002
+	About to loop over 1002, 4
+	1002, i: 1; j: 2; k: 366285360
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 3; i: 1; j: 3; k: 0
+ignoring: 1002
+	1002, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 2 at index 3; i: 2; j: 1; k: 1
+ignoring: 1002
+	End iteration, returning 0
+Processing 1003
+	About to loop over 1003, 4
+	1003, i: 1; j: 2; k: 366285360
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 3 at index 3; i: 1; j: 3; k: 0
+ignoring: 1003
+	1003, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 3 at index 3; i: 2; j: 1; k: 1
+ignoring: 1003
+	End iteration, returning 0
+Processing 1004
+	About to loop over 1004, 4
+	1004, i: 1; j: 2; k: 366285360
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+ignoring: 1004
+	1004, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+ignoring: 1004
+	End iteration, returning 0
+Processing 1005
+	About to loop over 1005, 4
+	1005, i: 1; j: 2; k: 366285360
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 3; i: 1; j: 3; k: 0
+ignoring: 1005
+	1005, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 5 at index 3; i: 2; j: 1; k: 1
+ignoring: 1005
+	End iteration, returning 0
+Processing 1006
+	About to loop over 1006, 4
+	1006, i: 1; j: 2; k: 366285360
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+ignoring: 1006
+	1006, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+ignoring: 1006
+	End iteration, returning 0
+Processing 1007
+	About to loop over 1007, 4
+	1007, i: 1; j: 2; k: 366285360
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 7 at index 3; i: 1; j: 3; k: 0
+ignoring: 1007
+	1007, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 7 at index 3; i: 2; j: 1; k: 1
+ignoring: 1007
+	End iteration, returning 0
+Processing 1008
+	About to loop over 1008, 4
+	1008, i: 1; j: 2; k: 366285360
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+ignoring: 1008
+	1008, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+ignoring: 1008
+	End iteration, returning 0
+Processing 1009
+	About to loop over 1009, 4
+	1009, i: 1; j: 2; k: 366285360
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+ignoring: 1009
+	1009, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+ignoring: 1009
+	End iteration, returning 0
+Processing 1010
+	About to loop over 1010, 4
+	1010, i: 1; j: 2; k: 366285360
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 3; i: 1; j: 3; k: 0
+ignoring: 1010
+	1010, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 0 at index 3; i: 2; j: 1; k: 1
+SUCCESSFUL_FIND: 1010
+Processing 1011
+	About to loop over 1011, 4
+	1011, i: 1; j: 2; k: 366285360
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+ignoring: 1011
+	1011, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+ignoring: 1011
+	End iteration, returning 0
+Processing 1012
+	About to loop over 1012, 4
+	1012, i: 1; j: 2; k: 366285360
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 3; i: 1; j: 3; k: 0
+ignoring: 1012
+	1012, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 2 at index 3; i: 2; j: 1; k: 1
+ignoring: 1012
+	End iteration, returning 0
+Processing 998
+	About to loop over 998, 3
+	998, i: 1; j: 4; k: 366291648
+	 in the outer for loop
+	Comparing 9 at index 0 to 9 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 9 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+ignoring: 998
+	End iteration, returning 0
+Processing 999
+	About to loop over 999, 3
+	999, i: 1; j: 3; k: 366291648
+	 in the outer for loop
+	Comparing 9 at index 0 to 9 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 9 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+SUCCESSFUL_FIND: 999
+Processing 1000
+	About to loop over 1000, 4
+	1000, i: 1; j: 3; k: 366291648
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 3; i: 1; j: 3; k: 0
+ignoring: 1000
+	1000, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 0 at index 3; i: 2; j: 1; k: 1
+ignoring: 1000
+	End iteration, returning 0
+Processing 1001
+	About to loop over 1001, 4
+	1001, i: 1; j: 2; k: 366291648
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+ignoring: 1001
+	1001, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+ignoring: 1001
+	End iteration, returning 0
+Processing 1002
+	About to loop over 1002, 4
+	1002, i: 1; j: 2; k: 366291648
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 3; i: 1; j: 3; k: 0
+ignoring: 1002
+	1002, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 2 at index 3; i: 2; j: 1; k: 1
+ignoring: 1002
+	End iteration, returning 0
+Processing 1003
+	About to loop over 1003, 4
+	1003, i: 1; j: 2; k: 366291648
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 3 at index 3; i: 1; j: 3; k: 0
+ignoring: 1003
+	1003, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 3 at index 3; i: 2; j: 1; k: 1
+ignoring: 1003
+	End iteration, returning 0
+Processing 1004
+	About to loop over 1004, 4
+	1004, i: 1; j: 2; k: 366291648
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+ignoring: 1004
+	1004, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+ignoring: 1004
+	End iteration, returning 0
+Processing 1005
+	About to loop over 1005, 4
+	1005, i: 1; j: 2; k: 366291648
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 3; i: 1; j: 3; k: 0
+ignoring: 1005
+	1005, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 5 at index 3; i: 2; j: 1; k: 1
+ignoring: 1005
+	End iteration, returning 0
+Processing 1006
+	About to loop over 1006, 4
+	1006, i: 1; j: 2; k: 366291648
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+ignoring: 1006
+	1006, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+ignoring: 1006
+	End iteration, returning 0
+Processing 1007
+	About to loop over 1007, 4
+	1007, i: 1; j: 2; k: 366291648
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 7 at index 3; i: 1; j: 3; k: 0
+ignoring: 1007
+	1007, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 7 at index 3; i: 2; j: 1; k: 1
+ignoring: 1007
+	End iteration, returning 0
+Processing 1008
+	About to loop over 1008, 4
+	1008, i: 1; j: 2; k: 366291648
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+ignoring: 1008
+	1008, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+ignoring: 1008
+	End iteration, returning 0
+Processing 1009
+	About to loop over 1009, 4
+	1009, i: 1; j: 2; k: 366291648
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+ignoring: 1009
+	1009, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+ignoring: 1009
+	End iteration, returning 0
+Processing 1010
+	About to loop over 1010, 4
+	1010, i: 1; j: 2; k: 366291648
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 3; i: 1; j: 3; k: 0
+ignoring: 1010
+	1010, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 0 at index 3; i: 2; j: 1; k: 1
+SUCCESSFUL_FIND: 1010
+Processing 1011
+	About to loop over 1011, 4
+	1011, i: 1; j: 2; k: 366291648
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+ignoring: 1011
+	1011, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+ignoring: 1011
+	End iteration, returning 0
+Processing 1012
+	About to loop over 1012, 4
+	1012, i: 1; j: 2; k: 366291648
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 3; i: 1; j: 3; k: 0
+ignoring: 1012
+	1012, i: 2; j: 4; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 2; i: 2; j: 1; k: 0
+	Comparing 0 at index 1 to 2 at index 3; i: 2; j: 1; k: 1
+ignoring: 1012
+	End iteration, returning 0
+Processing 1188511880
+	About to loop over 1188511880, 10
+	1188511880, i: 1; j: 10; k: 366297936
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511880
+	1188511880, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 0 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511880
+	1188511880, i: 3; j: 5; k: 2
+Skipping s 1188511880 for i 3
+	1188511880, i: 4; j: 5; k: 2
+Skipping s 1188511880 for i 4
+	1188511880, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 0 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511880
+	End iteration, returning 0
+Processing 1188511881
+	About to loop over 1188511881, 10
+	1188511881, i: 1; j: 2; k: 366297936
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511881
+	1188511881, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 1 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511881
+	1188511881, i: 3; j: 5; k: 2
+Skipping s 1188511881 for i 3
+	1188511881, i: 4; j: 5; k: 2
+Skipping s 1188511881 for i 4
+	1188511881, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 1 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511881
+	End iteration, returning 0
+Processing 1188511882
+	About to loop over 1188511882, 10
+	1188511882, i: 1; j: 2; k: 366297936
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511882
+	1188511882, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 2 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511882
+	1188511882, i: 3; j: 5; k: 2
+Skipping s 1188511882 for i 3
+	1188511882, i: 4; j: 5; k: 2
+Skipping s 1188511882 for i 4
+	1188511882, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 2 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511882
+	End iteration, returning 0
+Processing 1188511883
+	About to loop over 1188511883, 10
+	1188511883, i: 1; j: 2; k: 366297936
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 3 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511883
+	1188511883, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 3 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511883
+	1188511883, i: 3; j: 5; k: 2
+Skipping s 1188511883 for i 3
+	1188511883, i: 4; j: 5; k: 2
+Skipping s 1188511883 for i 4
+	1188511883, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 3 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511883
+	End iteration, returning 0
+Processing 1188511884
+	About to loop over 1188511884, 10
+	1188511884, i: 1; j: 2; k: 366297936
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 4 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511884
+	1188511884, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 4 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511884
+	1188511884, i: 3; j: 5; k: 2
+Skipping s 1188511884 for i 3
+	1188511884, i: 4; j: 5; k: 2
+Skipping s 1188511884 for i 4
+	1188511884, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 4 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511884
+	End iteration, returning 0
+Processing 1188511885
+	About to loop over 1188511885, 10
+	1188511885, i: 1; j: 2; k: 366297936
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511885
+	1188511885, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 5 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511885
+	1188511885, i: 3; j: 5; k: 2
+Skipping s 1188511885 for i 3
+	1188511885, i: 4; j: 5; k: 2
+Skipping s 1188511885 for i 4
+	1188511885, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 5 at index 9; i: 5; j: 1; k: 4
+SUCCESSFUL_FIND: 1188511885
+Processing 1188511886
+	About to loop over 1188511886, 10
+	1188511886, i: 1; j: 2; k: 366297936
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511886
+	1188511886, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 6 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511886
+	1188511886, i: 3; j: 5; k: 2
+Skipping s 1188511886 for i 3
+	1188511886, i: 4; j: 5; k: 2
+Skipping s 1188511886 for i 4
+	1188511886, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 6 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511886
+	End iteration, returning 0
+Processing 1188511887
+	About to loop over 1188511887, 10
+	1188511887, i: 1; j: 2; k: 366297936
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 7 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511887
+	1188511887, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 7 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511887
+	1188511887, i: 3; j: 5; k: 2
+Skipping s 1188511887 for i 3
+	1188511887, i: 4; j: 5; k: 2
+Skipping s 1188511887 for i 4
+	1188511887, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 7 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511887
+	End iteration, returning 0
+Processing 1188511888
+	About to loop over 1188511888, 10
+	1188511888, i: 1; j: 2; k: 366297936
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511888
+	1188511888, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 8 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511888
+	1188511888, i: 3; j: 5; k: 2
+Skipping s 1188511888 for i 3
+	1188511888, i: 4; j: 5; k: 2
+Skipping s 1188511888 for i 4
+	1188511888, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 8 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511888
+	End iteration, returning 0
+Processing 1188511889
+	About to loop over 1188511889, 10
+	1188511889, i: 1; j: 2; k: 366297936
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511889
+	1188511889, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 9 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511889
+	1188511889, i: 3; j: 5; k: 2
+Skipping s 1188511889 for i 3
+	1188511889, i: 4; j: 5; k: 2
+Skipping s 1188511889 for i 4
+	1188511889, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 9 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511889
+	End iteration, returning 0
+Processing 1188511890
+	About to loop over 1188511890, 10
+	1188511890, i: 1; j: 2; k: 366297936
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511890
+	1188511890, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 0 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511890
+	1188511890, i: 3; j: 5; k: 2
+Skipping s 1188511890 for i 3
+	1188511890, i: 4; j: 5; k: 2
+Skipping s 1188511890 for i 4
+	1188511890, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 9 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 0 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511890
+	End iteration, returning 0
+Processing 1188511880
+	About to loop over 1188511880, 10
+	1188511880, i: 1; j: 10; k: 366304224
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511880
+	1188511880, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 0 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511880
+	1188511880, i: 3; j: 5; k: 2
+Skipping s 1188511880 for i 3
+	1188511880, i: 4; j: 5; k: 2
+Skipping s 1188511880 for i 4
+	1188511880, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 0 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511880
+	End iteration, returning 0
+Processing 1188511881
+	About to loop over 1188511881, 10
+	1188511881, i: 1; j: 2; k: 366304224
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511881
+	1188511881, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 1 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511881
+	1188511881, i: 3; j: 5; k: 2
+Skipping s 1188511881 for i 3
+	1188511881, i: 4; j: 5; k: 2
+Skipping s 1188511881 for i 4
+	1188511881, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 1 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511881
+	End iteration, returning 0
+Processing 1188511882
+	About to loop over 1188511882, 10
+	1188511882, i: 1; j: 2; k: 366304224
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511882
+	1188511882, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 2 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511882
+	1188511882, i: 3; j: 5; k: 2
+Skipping s 1188511882 for i 3
+	1188511882, i: 4; j: 5; k: 2
+Skipping s 1188511882 for i 4
+	1188511882, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 2 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511882
+	End iteration, returning 0
+Processing 1188511883
+	About to loop over 1188511883, 10
+	1188511883, i: 1; j: 2; k: 366304224
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 3 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511883
+	1188511883, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 3 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511883
+	1188511883, i: 3; j: 5; k: 2
+Skipping s 1188511883 for i 3
+	1188511883, i: 4; j: 5; k: 2
+Skipping s 1188511883 for i 4
+	1188511883, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 3 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511883
+	End iteration, returning 0
+Processing 1188511884
+	About to loop over 1188511884, 10
+	1188511884, i: 1; j: 2; k: 366304224
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 4 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511884
+	1188511884, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 4 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511884
+	1188511884, i: 3; j: 5; k: 2
+Skipping s 1188511884 for i 3
+	1188511884, i: 4; j: 5; k: 2
+Skipping s 1188511884 for i 4
+	1188511884, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 4 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511884
+	End iteration, returning 0
+Processing 1188511885
+	About to loop over 1188511885, 10
+	1188511885, i: 1; j: 2; k: 366304224
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511885
+	1188511885, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 5 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511885
+	1188511885, i: 3; j: 5; k: 2
+Skipping s 1188511885 for i 3
+	1188511885, i: 4; j: 5; k: 2
+Skipping s 1188511885 for i 4
+	1188511885, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 5 at index 9; i: 5; j: 1; k: 4
+SUCCESSFUL_FIND: 1188511885
+Processing 1188511886
+	About to loop over 1188511886, 10
+	1188511886, i: 1; j: 2; k: 366304224
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511886
+	1188511886, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 6 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511886
+	1188511886, i: 3; j: 5; k: 2
+Skipping s 1188511886 for i 3
+	1188511886, i: 4; j: 5; k: 2
+Skipping s 1188511886 for i 4
+	1188511886, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 6 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511886
+	End iteration, returning 0
+Processing 1188511887
+	About to loop over 1188511887, 10
+	1188511887, i: 1; j: 2; k: 366304224
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 7 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511887
+	1188511887, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 7 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511887
+	1188511887, i: 3; j: 5; k: 2
+Skipping s 1188511887 for i 3
+	1188511887, i: 4; j: 5; k: 2
+Skipping s 1188511887 for i 4
+	1188511887, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 7 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511887
+	End iteration, returning 0
+Processing 1188511888
+	About to loop over 1188511888, 10
+	1188511888, i: 1; j: 2; k: 366304224
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511888
+	1188511888, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 8 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511888
+	1188511888, i: 3; j: 5; k: 2
+Skipping s 1188511888 for i 3
+	1188511888, i: 4; j: 5; k: 2
+Skipping s 1188511888 for i 4
+	1188511888, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 8 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511888
+	End iteration, returning 0
+Processing 1188511889
+	About to loop over 1188511889, 10
+	1188511889, i: 1; j: 2; k: 366304224
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511889
+	1188511889, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 9 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511889
+	1188511889, i: 3; j: 5; k: 2
+Skipping s 1188511889 for i 3
+	1188511889, i: 4; j: 5; k: 2
+Skipping s 1188511889 for i 4
+	1188511889, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 8 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 9 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511889
+	End iteration, returning 0
+Processing 1188511890
+	About to loop over 1188511890, 10
+	1188511890, i: 1; j: 2; k: 366304224
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 0 at index 9; i: 1; j: 9; k: 0
+ignoring: 1188511890
+	1188511890, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 8 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 0 at index 9; i: 2; j: 4; k: 1
+ignoring: 1188511890
+	1188511890, i: 3; j: 5; k: 2
+Skipping s 1188511890 for i 3
+	1188511890, i: 4; j: 5; k: 2
+Skipping s 1188511890 for i 4
+	1188511890, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 1 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 6; i: 5; j: 1; k: 1
+	Comparing 8 at index 2 to 8 at index 7; i: 5; j: 1; k: 2
+	Comparing 8 at index 3 to 9 at index 8; i: 5; j: 1; k: 3
+	Comparing 5 at index 4 to 0 at index 9; i: 5; j: 1; k: 4
+ignoring: 1188511890
+	End iteration, returning 0
+Processing 222220
+	About to loop over 222220, 6
+	222220, i: 1; j: 6; k: 366310512
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 0 at index 5; i: 1; j: 5; k: 0
+ignoring: 222220
+	222220, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 2 at index 1 to 0 at index 5; i: 2; j: 2; k: 1
+ignoring: 222220
+	222220, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 2 at index 2 to 0 at index 5; i: 3; j: 1; k: 2
+ignoring: 222220
+	End iteration, returning 0
+Processing 222221
+	About to loop over 222221, 6
+	222221, i: 1; j: 2; k: 366310512
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+ignoring: 222221
+	222221, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 2 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+ignoring: 222221
+	222221, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 2 at index 2 to 1 at index 5; i: 3; j: 1; k: 2
+ignoring: 222221
+	End iteration, returning 0
+Processing 222222
+	About to loop over 222222, 6
+	222222, i: 1; j: 2; k: 366310512
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+SUCCESSFUL_FIND: 222222
+Processing 222223
+	About to loop over 222223, 6
+	222223, i: 1; j: 6; k: 366310512
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 3 at index 5; i: 1; j: 5; k: 0
+ignoring: 222223
+	222223, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 2 at index 1 to 3 at index 5; i: 2; j: 2; k: 1
+ignoring: 222223
+	222223, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 2 at index 2 to 3 at index 5; i: 3; j: 1; k: 2
+ignoring: 222223
+	End iteration, returning 0
+Processing 222224
+	About to loop over 222224, 6
+	222224, i: 1; j: 2; k: 366310512
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+ignoring: 222224
+	222224, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 2 at index 1 to 4 at index 5; i: 2; j: 2; k: 1
+ignoring: 222224
+	222224, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 2 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+ignoring: 222224
+	End iteration, returning 0
+Processing 222220
+	About to loop over 222220, 6
+	222220, i: 1; j: 6; k: 366316800
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 0 at index 5; i: 1; j: 5; k: 0
+ignoring: 222220
+	222220, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 2 at index 1 to 0 at index 5; i: 2; j: 2; k: 1
+ignoring: 222220
+	222220, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 2 at index 2 to 0 at index 5; i: 3; j: 1; k: 2
+ignoring: 222220
+	End iteration, returning 0
+Processing 222221
+	About to loop over 222221, 6
+	222221, i: 1; j: 2; k: 366316800
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+ignoring: 222221
+	222221, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 2 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+ignoring: 222221
+	222221, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 2 at index 2 to 1 at index 5; i: 3; j: 1; k: 2
+ignoring: 222221
+	End iteration, returning 0
+Processing 222222
+	About to loop over 222222, 6
+	222222, i: 1; j: 2; k: 366316800
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+SUCCESSFUL_FIND: 222222
+Processing 222223
+	About to loop over 222223, 6
+	222223, i: 1; j: 6; k: 366316800
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 3 at index 5; i: 1; j: 5; k: 0
+ignoring: 222223
+	222223, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 2 at index 1 to 3 at index 5; i: 2; j: 2; k: 1
+ignoring: 222223
+	222223, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 2 at index 2 to 3 at index 5; i: 3; j: 1; k: 2
+ignoring: 222223
+	End iteration, returning 0
+Processing 222224
+	About to loop over 222224, 6
+	222224, i: 1; j: 2; k: 366316800
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+ignoring: 222224
+	222224, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 2 at index 1 to 4 at index 5; i: 2; j: 2; k: 1
+ignoring: 222224
+	222224, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 2 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+ignoring: 222224
+	End iteration, returning 0
+Processing 1698522
+	About to loop over 1698522, 7
+	1698522, i: 1; j: 7; k: 366323088
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+ignoring: 1698522
+	1698522, i: 2; j: 7; k: 1
+Skipping s 1698522 for i 2
+	1698522, i: 3; j: 7; k: 1
+Skipping s 1698522 for i 3
+	End iteration, returning 0
+Processing 1698523
+	About to loop over 1698523, 7
+	1698523, i: 1; j: 7; k: 366323088
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 3 at index 6; i: 1; j: 6; k: 0
+ignoring: 1698523
+	1698523, i: 2; j: 7; k: 1
+Skipping s 1698523 for i 2
+	1698523, i: 3; j: 7; k: 1
+Skipping s 1698523 for i 3
+	End iteration, returning 0
+Processing 1698524
+	About to loop over 1698524, 7
+	1698524, i: 1; j: 7; k: 366323088
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 4 at index 6; i: 1; j: 6; k: 0
+ignoring: 1698524
+	1698524, i: 2; j: 7; k: 1
+Skipping s 1698524 for i 2
+	1698524, i: 3; j: 7; k: 1
+Skipping s 1698524 for i 3
+	End iteration, returning 0
+Processing 1698525
+	About to loop over 1698525, 7
+	1698525, i: 1; j: 7; k: 366323088
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 6; i: 1; j: 6; k: 0
+ignoring: 1698525
+	1698525, i: 2; j: 7; k: 1
+Skipping s 1698525 for i 2
+	1698525, i: 3; j: 7; k: 1
+Skipping s 1698525 for i 3
+	End iteration, returning 0
+Processing 1698526
+	About to loop over 1698526, 7
+	1698526, i: 1; j: 7; k: 366323088
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 6; i: 1; j: 6; k: 0
+ignoring: 1698526
+	1698526, i: 2; j: 7; k: 1
+Skipping s 1698526 for i 2
+	1698526, i: 3; j: 7; k: 1
+Skipping s 1698526 for i 3
+	End iteration, returning 0
+Processing 1698527
+	About to loop over 1698527, 7
+	1698527, i: 1; j: 7; k: 366323088
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 7 at index 6; i: 1; j: 6; k: 0
+ignoring: 1698527
+	1698527, i: 2; j: 7; k: 1
+Skipping s 1698527 for i 2
+	1698527, i: 3; j: 7; k: 1
+Skipping s 1698527 for i 3
+	End iteration, returning 0
+Processing 1698528
+	About to loop over 1698528, 7
+	1698528, i: 1; j: 7; k: 366323088
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+ignoring: 1698528
+	1698528, i: 2; j: 7; k: 1
+Skipping s 1698528 for i 2
+	1698528, i: 3; j: 7; k: 1
+Skipping s 1698528 for i 3
+	End iteration, returning 0
+Processing 1698522
+	About to loop over 1698522, 7
+	1698522, i: 1; j: 7; k: 366329376
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+ignoring: 1698522
+	1698522, i: 2; j: 7; k: 1
+Skipping s 1698522 for i 2
+	1698522, i: 3; j: 7; k: 1
+Skipping s 1698522 for i 3
+	End iteration, returning 0
+Processing 1698523
+	About to loop over 1698523, 7
+	1698523, i: 1; j: 7; k: 366329376
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 3 at index 6; i: 1; j: 6; k: 0
+ignoring: 1698523
+	1698523, i: 2; j: 7; k: 1
+Skipping s 1698523 for i 2
+	1698523, i: 3; j: 7; k: 1
+Skipping s 1698523 for i 3
+	End iteration, returning 0
+Processing 1698524
+	About to loop over 1698524, 7
+	1698524, i: 1; j: 7; k: 366329376
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 4 at index 6; i: 1; j: 6; k: 0
+ignoring: 1698524
+	1698524, i: 2; j: 7; k: 1
+Skipping s 1698524 for i 2
+	1698524, i: 3; j: 7; k: 1
+Skipping s 1698524 for i 3
+	End iteration, returning 0
+Processing 1698525
+	About to loop over 1698525, 7
+	1698525, i: 1; j: 7; k: 366329376
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 6; i: 1; j: 6; k: 0
+ignoring: 1698525
+	1698525, i: 2; j: 7; k: 1
+Skipping s 1698525 for i 2
+	1698525, i: 3; j: 7; k: 1
+Skipping s 1698525 for i 3
+	End iteration, returning 0
+Processing 1698526
+	About to loop over 1698526, 7
+	1698526, i: 1; j: 7; k: 366329376
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 6; i: 1; j: 6; k: 0
+ignoring: 1698526
+	1698526, i: 2; j: 7; k: 1
+Skipping s 1698526 for i 2
+	1698526, i: 3; j: 7; k: 1
+Skipping s 1698526 for i 3
+	End iteration, returning 0
+Processing 1698527
+	About to loop over 1698527, 7
+	1698527, i: 1; j: 7; k: 366329376
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 7 at index 6; i: 1; j: 6; k: 0
+ignoring: 1698527
+	1698527, i: 2; j: 7; k: 1
+Skipping s 1698527 for i 2
+	1698527, i: 3; j: 7; k: 1
+Skipping s 1698527 for i 3
+	End iteration, returning 0
+Processing 1698528
+	About to loop over 1698528, 7
+	1698528, i: 1; j: 7; k: 366329376
+	 in the outer for loop
+	Comparing 1 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 9 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 2 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 1 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+ignoring: 1698528
+	1698528, i: 2; j: 7; k: 1
+Skipping s 1698528 for i 2
+	1698528, i: 3; j: 7; k: 1
+Skipping s 1698528 for i 3
+	End iteration, returning 0
+Processing 446443
+	About to loop over 446443, 6
+	446443, i: 1; j: 6; k: 366335664
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 3 at index 5; i: 1; j: 5; k: 0
+ignoring: 446443
+	446443, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 2; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 2; j: 2; k: 0
+	Comparing 4 at index 1 to 3 at index 5; i: 2; j: 2; k: 1
+ignoring: 446443
+	446443, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 3; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 4; i: 3; j: 1; k: 1
+	Comparing 6 at index 2 to 3 at index 5; i: 3; j: 1; k: 2
+ignoring: 446443
+	End iteration, returning 0
+Processing 446444
+	About to loop over 446444, 6
+	446444, i: 1; j: 2; k: 366335664
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+ignoring: 446444
+	446444, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 2; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 2; j: 2; k: 0
+	Comparing 4 at index 1 to 4 at index 5; i: 2; j: 2; k: 1
+ignoring: 446444
+	446444, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 3; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 4; i: 3; j: 1; k: 1
+	Comparing 6 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+ignoring: 446444
+	End iteration, returning 0
+Processing 446445
+	About to loop over 446445, 6
+	446445, i: 1; j: 2; k: 366335664
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 5 at index 5; i: 1; j: 5; k: 0
+ignoring: 446445
+	446445, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 2; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 2; j: 2; k: 0
+	Comparing 4 at index 1 to 5 at index 5; i: 2; j: 2; k: 1
+ignoring: 446445
+	446445, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 3; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 4; i: 3; j: 1; k: 1
+	Comparing 6 at index 2 to 5 at index 5; i: 3; j: 1; k: 2
+ignoring: 446445
+	End iteration, returning 0
+Processing 446446
+	About to loop over 446446, 6
+	446446, i: 1; j: 2; k: 366335664
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 5; i: 1; j: 5; k: 0
+ignoring: 446446
+	446446, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 2; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 2; j: 2; k: 0
+	Comparing 4 at index 1 to 6 at index 5; i: 2; j: 2; k: 1
+ignoring: 446446
+	446446, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 3; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 4; i: 3; j: 1; k: 1
+	Comparing 6 at index 2 to 6 at index 5; i: 3; j: 1; k: 2
+SUCCESSFUL_FIND: 446446
+Processing 446447
+	About to loop over 446447, 6
+	446447, i: 1; j: 2; k: 366335664
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 7 at index 5; i: 1; j: 5; k: 0
+ignoring: 446447
+	446447, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 2; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 2; j: 2; k: 0
+	Comparing 4 at index 1 to 7 at index 5; i: 2; j: 2; k: 1
+ignoring: 446447
+	446447, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 3; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 4; i: 3; j: 1; k: 1
+	Comparing 6 at index 2 to 7 at index 5; i: 3; j: 1; k: 2
+ignoring: 446447
+	End iteration, returning 0
+Processing 446448
+	About to loop over 446448, 6
+	446448, i: 1; j: 2; k: 366335664
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+ignoring: 446448
+	446448, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 2; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 2; j: 2; k: 0
+	Comparing 4 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+ignoring: 446448
+	446448, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 3; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 4; i: 3; j: 1; k: 1
+	Comparing 6 at index 2 to 8 at index 5; i: 3; j: 1; k: 2
+ignoring: 446448
+	End iteration, returning 0
+Processing 446449
+	About to loop over 446449, 6
+	446449, i: 1; j: 2; k: 366335664
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 9 at index 5; i: 1; j: 5; k: 0
+ignoring: 446449
+	446449, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 2; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 2; j: 2; k: 0
+	Comparing 4 at index 1 to 9 at index 5; i: 2; j: 2; k: 1
+ignoring: 446449
+	446449, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 3; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 4; i: 3; j: 1; k: 1
+	Comparing 6 at index 2 to 9 at index 5; i: 3; j: 1; k: 2
+ignoring: 446449
+	End iteration, returning 0
+Processing 446443
+	About to loop over 446443, 6
+	446443, i: 1; j: 6; k: 366341952
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 3 at index 5; i: 1; j: 5; k: 0
+ignoring: 446443
+	446443, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 2; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 2; j: 2; k: 0
+	Comparing 4 at index 1 to 3 at index 5; i: 2; j: 2; k: 1
+ignoring: 446443
+	446443, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 3; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 4; i: 3; j: 1; k: 1
+	Comparing 6 at index 2 to 3 at index 5; i: 3; j: 1; k: 2
+ignoring: 446443
+	End iteration, returning 0
+Processing 446444
+	About to loop over 446444, 6
+	446444, i: 1; j: 2; k: 366341952
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+ignoring: 446444
+	446444, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 2; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 2; j: 2; k: 0
+	Comparing 4 at index 1 to 4 at index 5; i: 2; j: 2; k: 1
+ignoring: 446444
+	446444, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 3; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 4; i: 3; j: 1; k: 1
+	Comparing 6 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+ignoring: 446444
+	End iteration, returning 0
+Processing 446445
+	About to loop over 446445, 6
+	446445, i: 1; j: 2; k: 366341952
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 5 at index 5; i: 1; j: 5; k: 0
+ignoring: 446445
+	446445, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 2; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 2; j: 2; k: 0
+	Comparing 4 at index 1 to 5 at index 5; i: 2; j: 2; k: 1
+ignoring: 446445
+	446445, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 3; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 4; i: 3; j: 1; k: 1
+	Comparing 6 at index 2 to 5 at index 5; i: 3; j: 1; k: 2
+ignoring: 446445
+	End iteration, returning 0
+Processing 446446
+	About to loop over 446446, 6
+	446446, i: 1; j: 2; k: 366341952
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 5; i: 1; j: 5; k: 0
+ignoring: 446446
+	446446, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 2; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 2; j: 2; k: 0
+	Comparing 4 at index 1 to 6 at index 5; i: 2; j: 2; k: 1
+ignoring: 446446
+	446446, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 3; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 4; i: 3; j: 1; k: 1
+	Comparing 6 at index 2 to 6 at index 5; i: 3; j: 1; k: 2
+SUCCESSFUL_FIND: 446446
+Processing 446447
+	About to loop over 446447, 6
+	446447, i: 1; j: 2; k: 366341952
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 7 at index 5; i: 1; j: 5; k: 0
+ignoring: 446447
+	446447, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 2; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 2; j: 2; k: 0
+	Comparing 4 at index 1 to 7 at index 5; i: 2; j: 2; k: 1
+ignoring: 446447
+	446447, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 3; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 4; i: 3; j: 1; k: 1
+	Comparing 6 at index 2 to 7 at index 5; i: 3; j: 1; k: 2
+ignoring: 446447
+	End iteration, returning 0
+Processing 446448
+	About to loop over 446448, 6
+	446448, i: 1; j: 2; k: 366341952
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+ignoring: 446448
+	446448, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 2; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 2; j: 2; k: 0
+	Comparing 4 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+ignoring: 446448
+	446448, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 3; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 4; i: 3; j: 1; k: 1
+	Comparing 6 at index 2 to 8 at index 5; i: 3; j: 1; k: 2
+ignoring: 446448
+	End iteration, returning 0
+Processing 446449
+	About to loop over 446449, 6
+	446449, i: 1; j: 2; k: 366341952
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 4 at index 0 to 9 at index 5; i: 1; j: 5; k: 0
+ignoring: 446449
+	446449, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 6 at index 2; i: 2; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 4; i: 2; j: 2; k: 0
+	Comparing 4 at index 1 to 9 at index 5; i: 2; j: 2; k: 1
+ignoring: 446449
+	446449, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 4 at index 0 to 4 at index 3; i: 3; j: 1; k: 0
+	Comparing 4 at index 1 to 4 at index 4; i: 3; j: 1; k: 1
+	Comparing 6 at index 2 to 9 at index 5; i: 3; j: 1; k: 2
+ignoring: 446449
+	End iteration, returning 0
+Processing 38593856
+	About to loop over 38593856, 8
+	38593856, i: 1; j: 8; k: 366348240
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 6 at index 7; i: 1; j: 7; k: 0
+ignoring: 38593856
+	38593856, i: 2; j: 8; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 8 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 2; j: 2; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 2; j: 3; k: 0
+	Comparing 8 at index 1 to 6 at index 7; i: 2; j: 3; k: 1
+ignoring: 38593856
+	38593856, i: 3; j: 4; k: 2
+Skipping s 38593856 for i 3
+	38593856, i: 4; j: 4; k: 2
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 4; j: 1; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 4; j: 1; k: 1
+	Comparing 5 at index 2 to 5 at index 6; i: 4; j: 1; k: 2
+	Comparing 9 at index 3 to 6 at index 7; i: 4; j: 1; k: 3
+ignoring: 38593856
+	End iteration, returning 0
+Processing 38593857
+	About to loop over 38593857, 8
+	38593857, i: 1; j: 2; k: 366348240
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 7 at index 7; i: 1; j: 7; k: 0
+ignoring: 38593857
+	38593857, i: 2; j: 8; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 8 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 2; j: 2; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 2; j: 3; k: 0
+	Comparing 8 at index 1 to 7 at index 7; i: 2; j: 3; k: 1
+ignoring: 38593857
+	38593857, i: 3; j: 4; k: 2
+Skipping s 38593857 for i 3
+	38593857, i: 4; j: 4; k: 2
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 4; j: 1; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 4; j: 1; k: 1
+	Comparing 5 at index 2 to 5 at index 6; i: 4; j: 1; k: 2
+	Comparing 9 at index 3 to 7 at index 7; i: 4; j: 1; k: 3
+ignoring: 38593857
+	End iteration, returning 0
+Processing 38593858
+	About to loop over 38593858, 8
+	38593858, i: 1; j: 2; k: 366348240
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+ignoring: 38593858
+	38593858, i: 2; j: 8; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 8 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 2; j: 2; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 2; j: 3; k: 0
+	Comparing 8 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+ignoring: 38593858
+	38593858, i: 3; j: 4; k: 2
+Skipping s 38593858 for i 3
+	38593858, i: 4; j: 4; k: 2
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 4; j: 1; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 4; j: 1; k: 1
+	Comparing 5 at index 2 to 5 at index 6; i: 4; j: 1; k: 2
+	Comparing 9 at index 3 to 8 at index 7; i: 4; j: 1; k: 3
+ignoring: 38593858
+	End iteration, returning 0
+Processing 38593859
+	About to loop over 38593859, 8
+	38593859, i: 1; j: 2; k: 366348240
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 7; i: 1; j: 7; k: 0
+ignoring: 38593859
+	38593859, i: 2; j: 8; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 8 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 2; j: 2; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 2; j: 3; k: 0
+	Comparing 8 at index 1 to 9 at index 7; i: 2; j: 3; k: 1
+ignoring: 38593859
+	38593859, i: 3; j: 4; k: 2
+Skipping s 38593859 for i 3
+	38593859, i: 4; j: 4; k: 2
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 4; j: 1; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 4; j: 1; k: 1
+	Comparing 5 at index 2 to 5 at index 6; i: 4; j: 1; k: 2
+	Comparing 9 at index 3 to 9 at index 7; i: 4; j: 1; k: 3
+SUCCESSFUL_FIND: 38593859
+Processing 38593860
+	About to loop over 38593860, 8
+	38593860, i: 1; j: 2; k: 366348240
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 6 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 0 at index 7; i: 1; j: 7; k: 0
+ignoring: 38593860
+	38593860, i: 2; j: 8; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 8 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 2; j: 2; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 6 at index 6; i: 2; j: 3; k: 0
+	Comparing 8 at index 1 to 0 at index 7; i: 2; j: 3; k: 1
+ignoring: 38593860
+	38593860, i: 3; j: 4; k: 2
+Skipping s 38593860 for i 3
+	38593860, i: 4; j: 4; k: 2
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 4; j: 1; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 4; j: 1; k: 1
+	Comparing 5 at index 2 to 6 at index 6; i: 4; j: 1; k: 2
+	Comparing 9 at index 3 to 0 at index 7; i: 4; j: 1; k: 3
+ignoring: 38593860
+	End iteration, returning 0
+Processing 38593861
+	About to loop over 38593861, 8
+	38593861, i: 1; j: 2; k: 366348240
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 6 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+ignoring: 38593861
+	38593861, i: 2; j: 8; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 8 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 2; j: 2; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 6 at index 6; i: 2; j: 3; k: 0
+	Comparing 8 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+ignoring: 38593861
+	38593861, i: 3; j: 4; k: 2
+Skipping s 38593861 for i 3
+	38593861, i: 4; j: 4; k: 2
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 4; j: 1; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 4; j: 1; k: 1
+	Comparing 5 at index 2 to 6 at index 6; i: 4; j: 1; k: 2
+	Comparing 9 at index 3 to 1 at index 7; i: 4; j: 1; k: 3
+ignoring: 38593861
+	End iteration, returning 0
+Processing 38593862
+	About to loop over 38593862, 8
+	38593862, i: 1; j: 2; k: 366348240
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 6 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+ignoring: 38593862
+	38593862, i: 2; j: 8; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 8 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 2; j: 2; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 6 at index 6; i: 2; j: 3; k: 0
+	Comparing 8 at index 1 to 2 at index 7; i: 2; j: 3; k: 1
+ignoring: 38593862
+	38593862, i: 3; j: 4; k: 2
+Skipping s 38593862 for i 3
+	38593862, i: 4; j: 4; k: 2
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 4; j: 1; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 4; j: 1; k: 1
+	Comparing 5 at index 2 to 6 at index 6; i: 4; j: 1; k: 2
+	Comparing 9 at index 3 to 2 at index 7; i: 4; j: 1; k: 3
+ignoring: 38593862
+	End iteration, returning 0
+Processing 38593856
+	About to loop over 38593856, 8
+	38593856, i: 1; j: 8; k: 366354528
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 6 at index 7; i: 1; j: 7; k: 0
+ignoring: 38593856
+	38593856, i: 2; j: 8; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 8 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 2; j: 2; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 2; j: 3; k: 0
+	Comparing 8 at index 1 to 6 at index 7; i: 2; j: 3; k: 1
+ignoring: 38593856
+	38593856, i: 3; j: 4; k: 2
+Skipping s 38593856 for i 3
+	38593856, i: 4; j: 4; k: 2
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 4; j: 1; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 4; j: 1; k: 1
+	Comparing 5 at index 2 to 5 at index 6; i: 4; j: 1; k: 2
+	Comparing 9 at index 3 to 6 at index 7; i: 4; j: 1; k: 3
+ignoring: 38593856
+	End iteration, returning 0
+Processing 38593857
+	About to loop over 38593857, 8
+	38593857, i: 1; j: 2; k: 366354528
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 7 at index 7; i: 1; j: 7; k: 0
+ignoring: 38593857
+	38593857, i: 2; j: 8; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 8 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 2; j: 2; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 2; j: 3; k: 0
+	Comparing 8 at index 1 to 7 at index 7; i: 2; j: 3; k: 1
+ignoring: 38593857
+	38593857, i: 3; j: 4; k: 2
+Skipping s 38593857 for i 3
+	38593857, i: 4; j: 4; k: 2
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 4; j: 1; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 4; j: 1; k: 1
+	Comparing 5 at index 2 to 5 at index 6; i: 4; j: 1; k: 2
+	Comparing 9 at index 3 to 7 at index 7; i: 4; j: 1; k: 3
+ignoring: 38593857
+	End iteration, returning 0
+Processing 38593858
+	About to loop over 38593858, 8
+	38593858, i: 1; j: 2; k: 366354528
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 7; i: 1; j: 7; k: 0
+ignoring: 38593858
+	38593858, i: 2; j: 8; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 8 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 2; j: 2; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 2; j: 3; k: 0
+	Comparing 8 at index 1 to 8 at index 7; i: 2; j: 3; k: 1
+ignoring: 38593858
+	38593858, i: 3; j: 4; k: 2
+Skipping s 38593858 for i 3
+	38593858, i: 4; j: 4; k: 2
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 4; j: 1; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 4; j: 1; k: 1
+	Comparing 5 at index 2 to 5 at index 6; i: 4; j: 1; k: 2
+	Comparing 9 at index 3 to 8 at index 7; i: 4; j: 1; k: 3
+ignoring: 38593858
+	End iteration, returning 0
+Processing 38593859
+	About to loop over 38593859, 8
+	38593859, i: 1; j: 2; k: 366354528
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 7; i: 1; j: 7; k: 0
+ignoring: 38593859
+	38593859, i: 2; j: 8; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 8 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 2; j: 2; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 6; i: 2; j: 3; k: 0
+	Comparing 8 at index 1 to 9 at index 7; i: 2; j: 3; k: 1
+ignoring: 38593859
+	38593859, i: 3; j: 4; k: 2
+Skipping s 38593859 for i 3
+	38593859, i: 4; j: 4; k: 2
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 4; j: 1; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 4; j: 1; k: 1
+	Comparing 5 at index 2 to 5 at index 6; i: 4; j: 1; k: 2
+	Comparing 9 at index 3 to 9 at index 7; i: 4; j: 1; k: 3
+SUCCESSFUL_FIND: 38593859
+Processing 38593860
+	About to loop over 38593860, 8
+	38593860, i: 1; j: 2; k: 366354528
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 6 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 0 at index 7; i: 1; j: 7; k: 0
+ignoring: 38593860
+	38593860, i: 2; j: 8; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 8 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 2; j: 2; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 6 at index 6; i: 2; j: 3; k: 0
+	Comparing 8 at index 1 to 0 at index 7; i: 2; j: 3; k: 1
+ignoring: 38593860
+	38593860, i: 3; j: 4; k: 2
+Skipping s 38593860 for i 3
+	38593860, i: 4; j: 4; k: 2
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 4; j: 1; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 4; j: 1; k: 1
+	Comparing 5 at index 2 to 6 at index 6; i: 4; j: 1; k: 2
+	Comparing 9 at index 3 to 0 at index 7; i: 4; j: 1; k: 3
+ignoring: 38593860
+	End iteration, returning 0
+Processing 38593861
+	About to loop over 38593861, 8
+	38593861, i: 1; j: 2; k: 366354528
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 6 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+ignoring: 38593861
+	38593861, i: 2; j: 8; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 8 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 2; j: 2; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 6 at index 6; i: 2; j: 3; k: 0
+	Comparing 8 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+ignoring: 38593861
+	38593861, i: 3; j: 4; k: 2
+Skipping s 38593861 for i 3
+	38593861, i: 4; j: 4; k: 2
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 4; j: 1; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 4; j: 1; k: 1
+	Comparing 5 at index 2 to 6 at index 6; i: 4; j: 1; k: 2
+	Comparing 9 at index 3 to 1 at index 7; i: 4; j: 1; k: 3
+ignoring: 38593861
+	End iteration, returning 0
+Processing 38593862
+	About to loop over 38593862, 8
+	38593862, i: 1; j: 2; k: 366354528
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 9 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 6 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 3 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+ignoring: 38593862
+	38593862, i: 2; j: 8; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 8 at index 1 to 9 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 2; j: 2; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 3 at index 0 to 6 at index 6; i: 2; j: 3; k: 0
+	Comparing 8 at index 1 to 2 at index 7; i: 2; j: 3; k: 1
+ignoring: 38593862
+	38593862, i: 3; j: 4; k: 2
+Skipping s 38593862 for i 3
+	38593862, i: 4; j: 4; k: 2
+	 in the outer for loop
+	Comparing 3 at index 0 to 3 at index 4; i: 4; j: 1; k: 0
+	Comparing 8 at index 1 to 8 at index 5; i: 4; j: 1; k: 1
+	Comparing 5 at index 2 to 6 at index 6; i: 4; j: 1; k: 2
+	Comparing 9 at index 3 to 2 at index 7; i: 4; j: 1; k: 3
+ignoring: 38593862
+	End iteration, returning 0
+Processing 565653
+	About to loop over 565653, 6
+	565653, i: 1; j: 6; k: 366360816
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 3 at index 5; i: 1; j: 5; k: 0
+ignoring: 565653
+	565653, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 6 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 6 at index 1 to 3 at index 5; i: 2; j: 2; k: 1
+ignoring: 565653
+	565653, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 3; j: 1; k: 0
+	Comparing 6 at index 1 to 5 at index 4; i: 3; j: 1; k: 1
+	Comparing 5 at index 2 to 3 at index 5; i: 3; j: 1; k: 2
+ignoring: 565653
+	End iteration, returning 0
+Processing 565654
+	About to loop over 565654, 6
+	565654, i: 1; j: 2; k: 366360816
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+ignoring: 565654
+	565654, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 6 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 6 at index 1 to 4 at index 5; i: 2; j: 2; k: 1
+ignoring: 565654
+	565654, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 3; j: 1; k: 0
+	Comparing 6 at index 1 to 5 at index 4; i: 3; j: 1; k: 1
+	Comparing 5 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+ignoring: 565654
+	End iteration, returning 0
+Processing 565655
+	About to loop over 565655, 6
+	565655, i: 1; j: 2; k: 366360816
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 5; i: 1; j: 5; k: 0
+ignoring: 565655
+	565655, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 6 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 6 at index 1 to 5 at index 5; i: 2; j: 2; k: 1
+ignoring: 565655
+	565655, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 3; j: 1; k: 0
+	Comparing 6 at index 1 to 5 at index 4; i: 3; j: 1; k: 1
+	Comparing 5 at index 2 to 5 at index 5; i: 3; j: 1; k: 2
+ignoring: 565655
+	End iteration, returning 0
+Processing 565656
+	About to loop over 565656, 6
+	565656, i: 1; j: 2; k: 366360816
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 5; i: 1; j: 5; k: 0
+ignoring: 565656
+	565656, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 6 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 6 at index 1 to 6 at index 5; i: 2; j: 2; k: 1
+SUCCESSFUL_FIND: 565656
+Processing 565657
+	About to loop over 565657, 6
+	565657, i: 1; j: 3; k: 366360816
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 7 at index 5; i: 1; j: 5; k: 0
+ignoring: 565657
+	565657, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 6 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 6 at index 1 to 7 at index 5; i: 2; j: 2; k: 1
+ignoring: 565657
+	565657, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 3; j: 1; k: 0
+	Comparing 6 at index 1 to 5 at index 4; i: 3; j: 1; k: 1
+	Comparing 5 at index 2 to 7 at index 5; i: 3; j: 1; k: 2
+ignoring: 565657
+	End iteration, returning 0
+Processing 565658
+	About to loop over 565658, 6
+	565658, i: 1; j: 2; k: 366360816
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+ignoring: 565658
+	565658, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 6 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 6 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+ignoring: 565658
+	565658, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 3; j: 1; k: 0
+	Comparing 6 at index 1 to 5 at index 4; i: 3; j: 1; k: 1
+	Comparing 5 at index 2 to 8 at index 5; i: 3; j: 1; k: 2
+ignoring: 565658
+	End iteration, returning 0
+Processing 565659
+	About to loop over 565659, 6
+	565659, i: 1; j: 2; k: 366360816
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 9 at index 5; i: 1; j: 5; k: 0
+ignoring: 565659
+	565659, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 6 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 6 at index 1 to 9 at index 5; i: 2; j: 2; k: 1
+ignoring: 565659
+	565659, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 3; j: 1; k: 0
+	Comparing 6 at index 1 to 5 at index 4; i: 3; j: 1; k: 1
+	Comparing 5 at index 2 to 9 at index 5; i: 3; j: 1; k: 2
+ignoring: 565659
+	End iteration, returning 0
+Processing 565653
+	About to loop over 565653, 6
+	565653, i: 1; j: 6; k: 366367104
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 3 at index 5; i: 1; j: 5; k: 0
+ignoring: 565653
+	565653, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 6 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 6 at index 1 to 3 at index 5; i: 2; j: 2; k: 1
+ignoring: 565653
+	565653, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 3; j: 1; k: 0
+	Comparing 6 at index 1 to 5 at index 4; i: 3; j: 1; k: 1
+	Comparing 5 at index 2 to 3 at index 5; i: 3; j: 1; k: 2
+ignoring: 565653
+	End iteration, returning 0
+Processing 565654
+	About to loop over 565654, 6
+	565654, i: 1; j: 2; k: 366367104
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+ignoring: 565654
+	565654, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 6 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 6 at index 1 to 4 at index 5; i: 2; j: 2; k: 1
+ignoring: 565654
+	565654, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 3; j: 1; k: 0
+	Comparing 6 at index 1 to 5 at index 4; i: 3; j: 1; k: 1
+	Comparing 5 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+ignoring: 565654
+	End iteration, returning 0
+Processing 565655
+	About to loop over 565655, 6
+	565655, i: 1; j: 2; k: 366367104
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 5; i: 1; j: 5; k: 0
+ignoring: 565655
+	565655, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 6 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 6 at index 1 to 5 at index 5; i: 2; j: 2; k: 1
+ignoring: 565655
+	565655, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 3; j: 1; k: 0
+	Comparing 6 at index 1 to 5 at index 4; i: 3; j: 1; k: 1
+	Comparing 5 at index 2 to 5 at index 5; i: 3; j: 1; k: 2
+ignoring: 565655
+	End iteration, returning 0
+Processing 565656
+	About to loop over 565656, 6
+	565656, i: 1; j: 2; k: 366367104
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 5; i: 1; j: 5; k: 0
+ignoring: 565656
+	565656, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 6 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 6 at index 1 to 6 at index 5; i: 2; j: 2; k: 1
+SUCCESSFUL_FIND: 565656
+Processing 565657
+	About to loop over 565657, 6
+	565657, i: 1; j: 3; k: 366367104
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 7 at index 5; i: 1; j: 5; k: 0
+ignoring: 565657
+	565657, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 6 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 6 at index 1 to 7 at index 5; i: 2; j: 2; k: 1
+ignoring: 565657
+	565657, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 3; j: 1; k: 0
+	Comparing 6 at index 1 to 5 at index 4; i: 3; j: 1; k: 1
+	Comparing 5 at index 2 to 7 at index 5; i: 3; j: 1; k: 2
+ignoring: 565657
+	End iteration, returning 0
+Processing 565658
+	About to loop over 565658, 6
+	565658, i: 1; j: 2; k: 366367104
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 8 at index 5; i: 1; j: 5; k: 0
+ignoring: 565658
+	565658, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 6 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 6 at index 1 to 8 at index 5; i: 2; j: 2; k: 1
+ignoring: 565658
+	565658, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 3; j: 1; k: 0
+	Comparing 6 at index 1 to 5 at index 4; i: 3; j: 1; k: 1
+	Comparing 5 at index 2 to 8 at index 5; i: 3; j: 1; k: 2
+ignoring: 565658
+	End iteration, returning 0
+Processing 565659
+	About to loop over 565659, 6
+	565659, i: 1; j: 2; k: 366367104
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 5 at index 0 to 9 at index 5; i: 1; j: 5; k: 0
+ignoring: 565659
+	565659, i: 2; j: 6; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 2; i: 2; j: 1; k: 0
+	Comparing 6 at index 1 to 6 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 5 at index 0 to 5 at index 4; i: 2; j: 2; k: 0
+	Comparing 6 at index 1 to 9 at index 5; i: 2; j: 2; k: 1
+ignoring: 565659
+	565659, i: 3; j: 3; k: 2
+	 in the outer for loop
+	Comparing 5 at index 0 to 6 at index 3; i: 3; j: 1; k: 0
+	Comparing 6 at index 1 to 5 at index 4; i: 3; j: 1; k: 1
+	Comparing 5 at index 2 to 9 at index 5; i: 3; j: 1; k: 2
+ignoring: 565659
+	End iteration, returning 0
+Processing 824824821
+	About to loop over 824824821, 9
+	824824821, i: 1; j: 9; k: 366373392
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 1 at index 8; i: 1; j: 8; k: 0
+ignoring: 824824821
+	824824821, i: 2; j: 9; k: 1
+Skipping s 824824821 for i 2
+	824824821, i: 3; j: 9; k: 1
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 4 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 3; j: 2; k: 0
+	Comparing 2 at index 1 to 2 at index 7; i: 3; j: 2; k: 1
+	Comparing 4 at index 2 to 1 at index 8; i: 3; j: 2; k: 2
+ignoring: 824824821
+	824824821, i: 4; j: 3; k: 3
+Skipping s 824824821 for i 4
+	End iteration, returning 0
+Processing 824824822
+	About to loop over 824824822, 9
+	824824822, i: 1; j: 3; k: 366373392
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 8; i: 1; j: 8; k: 0
+ignoring: 824824822
+	824824822, i: 2; j: 9; k: 1
+Skipping s 824824822 for i 2
+	824824822, i: 3; j: 9; k: 1
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 4 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 3; j: 2; k: 0
+	Comparing 2 at index 1 to 2 at index 7; i: 3; j: 2; k: 1
+	Comparing 4 at index 2 to 2 at index 8; i: 3; j: 2; k: 2
+ignoring: 824824822
+	824824822, i: 4; j: 3; k: 3
+Skipping s 824824822 for i 4
+	End iteration, returning 0
+Processing 824824823
+	About to loop over 824824823, 9
+	824824823, i: 1; j: 3; k: 366373392
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 3 at index 8; i: 1; j: 8; k: 0
+ignoring: 824824823
+	824824823, i: 2; j: 9; k: 1
+Skipping s 824824823 for i 2
+	824824823, i: 3; j: 9; k: 1
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 4 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 3; j: 2; k: 0
+	Comparing 2 at index 1 to 2 at index 7; i: 3; j: 2; k: 1
+	Comparing 4 at index 2 to 3 at index 8; i: 3; j: 2; k: 2
+ignoring: 824824823
+	824824823, i: 4; j: 3; k: 3
+Skipping s 824824823 for i 4
+	End iteration, returning 0
+Processing 824824824
+	About to loop over 824824824, 9
+	824824824, i: 1; j: 3; k: 366373392
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 8; i: 1; j: 8; k: 0
+ignoring: 824824824
+	824824824, i: 2; j: 9; k: 1
+Skipping s 824824824 for i 2
+	824824824, i: 3; j: 9; k: 1
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 4 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 3; j: 2; k: 0
+	Comparing 2 at index 1 to 2 at index 7; i: 3; j: 2; k: 1
+	Comparing 4 at index 2 to 4 at index 8; i: 3; j: 2; k: 2
+SUCCESSFUL_FIND: 824824824
+Processing 824824825
+	About to loop over 824824825, 9
+	824824825, i: 1; j: 3; k: 366373392
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 5 at index 8; i: 1; j: 8; k: 0
+ignoring: 824824825
+	824824825, i: 2; j: 9; k: 1
+Skipping s 824824825 for i 2
+	824824825, i: 3; j: 9; k: 1
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 4 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 3; j: 2; k: 0
+	Comparing 2 at index 1 to 2 at index 7; i: 3; j: 2; k: 1
+	Comparing 4 at index 2 to 5 at index 8; i: 3; j: 2; k: 2
+ignoring: 824824825
+	824824825, i: 4; j: 3; k: 3
+Skipping s 824824825 for i 4
+	End iteration, returning 0
+Processing 824824826
+	About to loop over 824824826, 9
+	824824826, i: 1; j: 3; k: 366373392
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 6 at index 8; i: 1; j: 8; k: 0
+ignoring: 824824826
+	824824826, i: 2; j: 9; k: 1
+Skipping s 824824826 for i 2
+	824824826, i: 3; j: 9; k: 1
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 4 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 3; j: 2; k: 0
+	Comparing 2 at index 1 to 2 at index 7; i: 3; j: 2; k: 1
+	Comparing 4 at index 2 to 6 at index 8; i: 3; j: 2; k: 2
+ignoring: 824824826
+	824824826, i: 4; j: 3; k: 3
+Skipping s 824824826 for i 4
+	End iteration, returning 0
+Processing 824824827
+	About to loop over 824824827, 9
+	824824827, i: 1; j: 3; k: 366373392
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 7 at index 8; i: 1; j: 8; k: 0
+ignoring: 824824827
+	824824827, i: 2; j: 9; k: 1
+Skipping s 824824827 for i 2
+	824824827, i: 3; j: 9; k: 1
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 4 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 3; j: 2; k: 0
+	Comparing 2 at index 1 to 2 at index 7; i: 3; j: 2; k: 1
+	Comparing 4 at index 2 to 7 at index 8; i: 3; j: 2; k: 2
+ignoring: 824824827
+	824824827, i: 4; j: 3; k: 3
+Skipping s 824824827 for i 4
+	End iteration, returning 0
+Processing 824824821
+	About to loop over 824824821, 9
+	824824821, i: 1; j: 9; k: 366379680
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 1 at index 8; i: 1; j: 8; k: 0
+ignoring: 824824821
+	824824821, i: 2; j: 9; k: 1
+Skipping s 824824821 for i 2
+	824824821, i: 3; j: 9; k: 1
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 4 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 3; j: 2; k: 0
+	Comparing 2 at index 1 to 2 at index 7; i: 3; j: 2; k: 1
+	Comparing 4 at index 2 to 1 at index 8; i: 3; j: 2; k: 2
+ignoring: 824824821
+	824824821, i: 4; j: 3; k: 3
+Skipping s 824824821 for i 4
+	End iteration, returning 0
+Processing 824824822
+	About to loop over 824824822, 9
+	824824822, i: 1; j: 3; k: 366379680
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 8; i: 1; j: 8; k: 0
+ignoring: 824824822
+	824824822, i: 2; j: 9; k: 1
+Skipping s 824824822 for i 2
+	824824822, i: 3; j: 9; k: 1
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 4 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 3; j: 2; k: 0
+	Comparing 2 at index 1 to 2 at index 7; i: 3; j: 2; k: 1
+	Comparing 4 at index 2 to 2 at index 8; i: 3; j: 2; k: 2
+ignoring: 824824822
+	824824822, i: 4; j: 3; k: 3
+Skipping s 824824822 for i 4
+	End iteration, returning 0
+Processing 824824823
+	About to loop over 824824823, 9
+	824824823, i: 1; j: 3; k: 366379680
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 3 at index 8; i: 1; j: 8; k: 0
+ignoring: 824824823
+	824824823, i: 2; j: 9; k: 1
+Skipping s 824824823 for i 2
+	824824823, i: 3; j: 9; k: 1
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 4 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 3; j: 2; k: 0
+	Comparing 2 at index 1 to 2 at index 7; i: 3; j: 2; k: 1
+	Comparing 4 at index 2 to 3 at index 8; i: 3; j: 2; k: 2
+ignoring: 824824823
+	824824823, i: 4; j: 3; k: 3
+Skipping s 824824823 for i 4
+	End iteration, returning 0
+Processing 824824824
+	About to loop over 824824824, 9
+	824824824, i: 1; j: 3; k: 366379680
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 8; i: 1; j: 8; k: 0
+ignoring: 824824824
+	824824824, i: 2; j: 9; k: 1
+Skipping s 824824824 for i 2
+	824824824, i: 3; j: 9; k: 1
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 4 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 3; j: 2; k: 0
+	Comparing 2 at index 1 to 2 at index 7; i: 3; j: 2; k: 1
+	Comparing 4 at index 2 to 4 at index 8; i: 3; j: 2; k: 2
+SUCCESSFUL_FIND: 824824824
+Processing 824824825
+	About to loop over 824824825, 9
+	824824825, i: 1; j: 3; k: 366379680
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 5 at index 8; i: 1; j: 8; k: 0
+ignoring: 824824825
+	824824825, i: 2; j: 9; k: 1
+Skipping s 824824825 for i 2
+	824824825, i: 3; j: 9; k: 1
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 4 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 3; j: 2; k: 0
+	Comparing 2 at index 1 to 2 at index 7; i: 3; j: 2; k: 1
+	Comparing 4 at index 2 to 5 at index 8; i: 3; j: 2; k: 2
+ignoring: 824824825
+	824824825, i: 4; j: 3; k: 3
+Skipping s 824824825 for i 4
+	End iteration, returning 0
+Processing 824824826
+	About to loop over 824824826, 9
+	824824826, i: 1; j: 3; k: 366379680
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 6 at index 8; i: 1; j: 8; k: 0
+ignoring: 824824826
+	824824826, i: 2; j: 9; k: 1
+Skipping s 824824826 for i 2
+	824824826, i: 3; j: 9; k: 1
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 4 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 3; j: 2; k: 0
+	Comparing 2 at index 1 to 2 at index 7; i: 3; j: 2; k: 1
+	Comparing 4 at index 2 to 6 at index 8; i: 3; j: 2; k: 2
+ignoring: 824824826
+	824824826, i: 4; j: 3; k: 3
+Skipping s 824824826 for i 4
+	End iteration, returning 0
+Processing 824824827
+	About to loop over 824824827, 9
+	824824827, i: 1; j: 3; k: 366379680
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 4 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 2 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 8 at index 0 to 7 at index 8; i: 1; j: 8; k: 0
+ignoring: 824824827
+	824824827, i: 2; j: 9; k: 1
+Skipping s 824824827 for i 2
+	824824827, i: 3; j: 9; k: 1
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 3; i: 3; j: 1; k: 0
+	Comparing 2 at index 1 to 2 at index 4; i: 3; j: 1; k: 1
+	Comparing 4 at index 2 to 4 at index 5; i: 3; j: 1; k: 2
+	 in the outer for loop
+	Comparing 8 at index 0 to 8 at index 6; i: 3; j: 2; k: 0
+	Comparing 2 at index 1 to 2 at index 7; i: 3; j: 2; k: 1
+	Comparing 4 at index 2 to 7 at index 8; i: 3; j: 2; k: 2
+ignoring: 824824827
+	824824827, i: 4; j: 3; k: 3
+Skipping s 824824827 for i 4
+	End iteration, returning 0
+Processing 2121212118
+	About to loop over 2121212118, 10
+	2121212118, i: 1; j: 10; k: 366385968
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 8 at index 9; i: 1; j: 9; k: 0
+ignoring: 2121212118
+	2121212118, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 8 at index 9; i: 2; j: 4; k: 1
+ignoring: 2121212118
+	2121212118, i: 3; j: 5; k: 2
+Skipping s 2121212118 for i 3
+	2121212118, i: 4; j: 5; k: 2
+Skipping s 2121212118 for i 4
+	2121212118, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 2 at index 6; i: 5; j: 1; k: 1
+	Comparing 2 at index 2 to 1 at index 7; i: 5; j: 1; k: 2
+	Comparing 1 at index 3 to 1 at index 8; i: 5; j: 1; k: 3
+	Comparing 2 at index 4 to 8 at index 9; i: 5; j: 1; k: 4
+ignoring: 2121212118
+	End iteration, returning 0
+Processing 2121212119
+	About to loop over 2121212119, 10
+	2121212119, i: 1; j: 2; k: 366385968
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 9 at index 9; i: 1; j: 9; k: 0
+ignoring: 2121212119
+	2121212119, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 9 at index 9; i: 2; j: 4; k: 1
+ignoring: 2121212119
+	2121212119, i: 3; j: 5; k: 2
+Skipping s 2121212119 for i 3
+	2121212119, i: 4; j: 5; k: 2
+Skipping s 2121212119 for i 4
+	2121212119, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 2 at index 6; i: 5; j: 1; k: 1
+	Comparing 2 at index 2 to 1 at index 7; i: 5; j: 1; k: 2
+	Comparing 1 at index 3 to 1 at index 8; i: 5; j: 1; k: 3
+	Comparing 2 at index 4 to 9 at index 9; i: 5; j: 1; k: 4
+ignoring: 2121212119
+	End iteration, returning 0
+Processing 2121212120
+	About to loop over 2121212120, 10
+	2121212120, i: 1; j: 2; k: 366385968
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 0 at index 9; i: 1; j: 9; k: 0
+ignoring: 2121212120
+	2121212120, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 0 at index 9; i: 2; j: 4; k: 1
+ignoring: 2121212120
+	2121212120, i: 3; j: 5; k: 2
+Skipping s 2121212120 for i 3
+	2121212120, i: 4; j: 5; k: 2
+Skipping s 2121212120 for i 4
+	2121212120, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 2 at index 6; i: 5; j: 1; k: 1
+	Comparing 2 at index 2 to 1 at index 7; i: 5; j: 1; k: 2
+	Comparing 1 at index 3 to 2 at index 8; i: 5; j: 1; k: 3
+	Comparing 2 at index 4 to 0 at index 9; i: 5; j: 1; k: 4
+ignoring: 2121212120
+	End iteration, returning 0
+Processing 2121212121
+	About to loop over 2121212121, 10
+	2121212121, i: 1; j: 2; k: 366385968
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 9; i: 1; j: 9; k: 0
+ignoring: 2121212121
+	2121212121, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 1 at index 9; i: 2; j: 4; k: 1
+SUCCESSFUL_FIND: 2121212121
+Processing 2121212122
+	About to loop over 2121212122, 10
+	2121212122, i: 1; j: 5; k: 366385968
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 9; i: 1; j: 9; k: 0
+ignoring: 2121212122
+	2121212122, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 2 at index 9; i: 2; j: 4; k: 1
+ignoring: 2121212122
+	2121212122, i: 3; j: 5; k: 2
+Skipping s 2121212122 for i 3
+	2121212122, i: 4; j: 5; k: 2
+Skipping s 2121212122 for i 4
+	2121212122, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 2 at index 6; i: 5; j: 1; k: 1
+	Comparing 2 at index 2 to 1 at index 7; i: 5; j: 1; k: 2
+	Comparing 1 at index 3 to 2 at index 8; i: 5; j: 1; k: 3
+	Comparing 2 at index 4 to 2 at index 9; i: 5; j: 1; k: 4
+ignoring: 2121212122
+	End iteration, returning 0
+Processing 2121212123
+	About to loop over 2121212123, 10
+	2121212123, i: 1; j: 2; k: 366385968
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 3 at index 9; i: 1; j: 9; k: 0
+ignoring: 2121212123
+	2121212123, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 3 at index 9; i: 2; j: 4; k: 1
+ignoring: 2121212123
+	2121212123, i: 3; j: 5; k: 2
+Skipping s 2121212123 for i 3
+	2121212123, i: 4; j: 5; k: 2
+Skipping s 2121212123 for i 4
+	2121212123, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 2 at index 6; i: 5; j: 1; k: 1
+	Comparing 2 at index 2 to 1 at index 7; i: 5; j: 1; k: 2
+	Comparing 1 at index 3 to 2 at index 8; i: 5; j: 1; k: 3
+	Comparing 2 at index 4 to 3 at index 9; i: 5; j: 1; k: 4
+ignoring: 2121212123
+	End iteration, returning 0
+Processing 2121212124
+	About to loop over 2121212124, 10
+	2121212124, i: 1; j: 2; k: 366385968
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 4 at index 9; i: 1; j: 9; k: 0
+ignoring: 2121212124
+	2121212124, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 4 at index 9; i: 2; j: 4; k: 1
+ignoring: 2121212124
+	2121212124, i: 3; j: 5; k: 2
+Skipping s 2121212124 for i 3
+	2121212124, i: 4; j: 5; k: 2
+Skipping s 2121212124 for i 4
+	2121212124, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 2 at index 6; i: 5; j: 1; k: 1
+	Comparing 2 at index 2 to 1 at index 7; i: 5; j: 1; k: 2
+	Comparing 1 at index 3 to 2 at index 8; i: 5; j: 1; k: 3
+	Comparing 2 at index 4 to 4 at index 9; i: 5; j: 1; k: 4
+ignoring: 2121212124
+	End iteration, returning 0
+Processing 2121212118
+	About to loop over 2121212118, 10
+	2121212118, i: 1; j: 10; k: 366392256
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 8 at index 9; i: 1; j: 9; k: 0
+ignoring: 2121212118
+	2121212118, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 8 at index 9; i: 2; j: 4; k: 1
+ignoring: 2121212118
+	2121212118, i: 3; j: 5; k: 2
+Skipping s 2121212118 for i 3
+	2121212118, i: 4; j: 5; k: 2
+Skipping s 2121212118 for i 4
+	2121212118, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 2 at index 6; i: 5; j: 1; k: 1
+	Comparing 2 at index 2 to 1 at index 7; i: 5; j: 1; k: 2
+	Comparing 1 at index 3 to 1 at index 8; i: 5; j: 1; k: 3
+	Comparing 2 at index 4 to 8 at index 9; i: 5; j: 1; k: 4
+ignoring: 2121212118
+	End iteration, returning 0
+Processing 2121212119
+	About to loop over 2121212119, 10
+	2121212119, i: 1; j: 2; k: 366392256
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 9 at index 9; i: 1; j: 9; k: 0
+ignoring: 2121212119
+	2121212119, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 9 at index 9; i: 2; j: 4; k: 1
+ignoring: 2121212119
+	2121212119, i: 3; j: 5; k: 2
+Skipping s 2121212119 for i 3
+	2121212119, i: 4; j: 5; k: 2
+Skipping s 2121212119 for i 4
+	2121212119, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 2 at index 6; i: 5; j: 1; k: 1
+	Comparing 2 at index 2 to 1 at index 7; i: 5; j: 1; k: 2
+	Comparing 1 at index 3 to 1 at index 8; i: 5; j: 1; k: 3
+	Comparing 2 at index 4 to 9 at index 9; i: 5; j: 1; k: 4
+ignoring: 2121212119
+	End iteration, returning 0
+Processing 2121212120
+	About to loop over 2121212120, 10
+	2121212120, i: 1; j: 2; k: 366392256
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 0 at index 9; i: 1; j: 9; k: 0
+ignoring: 2121212120
+	2121212120, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 0 at index 9; i: 2; j: 4; k: 1
+ignoring: 2121212120
+	2121212120, i: 3; j: 5; k: 2
+Skipping s 2121212120 for i 3
+	2121212120, i: 4; j: 5; k: 2
+Skipping s 2121212120 for i 4
+	2121212120, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 2 at index 6; i: 5; j: 1; k: 1
+	Comparing 2 at index 2 to 1 at index 7; i: 5; j: 1; k: 2
+	Comparing 1 at index 3 to 2 at index 8; i: 5; j: 1; k: 3
+	Comparing 2 at index 4 to 0 at index 9; i: 5; j: 1; k: 4
+ignoring: 2121212120
+	End iteration, returning 0
+Processing 2121212121
+	About to loop over 2121212121, 10
+	2121212121, i: 1; j: 2; k: 366392256
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 9; i: 1; j: 9; k: 0
+ignoring: 2121212121
+	2121212121, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 1 at index 9; i: 2; j: 4; k: 1
+SUCCESSFUL_FIND: 2121212121
+Processing 2121212122
+	About to loop over 2121212122, 10
+	2121212122, i: 1; j: 5; k: 366392256
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 9; i: 1; j: 9; k: 0
+ignoring: 2121212122
+	2121212122, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 2 at index 9; i: 2; j: 4; k: 1
+ignoring: 2121212122
+	2121212122, i: 3; j: 5; k: 2
+Skipping s 2121212122 for i 3
+	2121212122, i: 4; j: 5; k: 2
+Skipping s 2121212122 for i 4
+	2121212122, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 2 at index 6; i: 5; j: 1; k: 1
+	Comparing 2 at index 2 to 1 at index 7; i: 5; j: 1; k: 2
+	Comparing 1 at index 3 to 2 at index 8; i: 5; j: 1; k: 3
+	Comparing 2 at index 4 to 2 at index 9; i: 5; j: 1; k: 4
+ignoring: 2121212122
+	End iteration, returning 0
+Processing 2121212123
+	About to loop over 2121212123, 10
+	2121212123, i: 1; j: 2; k: 366392256
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 3 at index 9; i: 1; j: 9; k: 0
+ignoring: 2121212123
+	2121212123, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 3 at index 9; i: 2; j: 4; k: 1
+ignoring: 2121212123
+	2121212123, i: 3; j: 5; k: 2
+Skipping s 2121212123 for i 3
+	2121212123, i: 4; j: 5; k: 2
+Skipping s 2121212123 for i 4
+	2121212123, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 2 at index 6; i: 5; j: 1; k: 1
+	Comparing 2 at index 2 to 1 at index 7; i: 5; j: 1; k: 2
+	Comparing 1 at index 3 to 2 at index 8; i: 5; j: 1; k: 3
+	Comparing 2 at index 4 to 3 at index 9; i: 5; j: 1; k: 4
+ignoring: 2121212123
+	End iteration, returning 0
+Processing 2121212124
+	About to loop over 2121212124, 10
+	2121212124, i: 1; j: 2; k: 366392256
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 1; i: 1; j: 1; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 1; j: 2; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 3; i: 1; j: 3; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 1; j: 4; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 1; j: 5; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 1; j: 6; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 7; i: 1; j: 7; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 1; j: 8; k: 0
+	 in the outer for loop
+	Comparing 2 at index 0 to 4 at index 9; i: 1; j: 9; k: 0
+ignoring: 2121212124
+	2121212124, i: 2; j: 10; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 2; i: 2; j: 1; k: 0
+	Comparing 1 at index 1 to 1 at index 3; i: 2; j: 1; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 4; i: 2; j: 2; k: 0
+	Comparing 1 at index 1 to 1 at index 5; i: 2; j: 2; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 6; i: 2; j: 3; k: 0
+	Comparing 1 at index 1 to 1 at index 7; i: 2; j: 3; k: 1
+	 in the outer for loop
+	Comparing 2 at index 0 to 2 at index 8; i: 2; j: 4; k: 0
+	Comparing 1 at index 1 to 4 at index 9; i: 2; j: 4; k: 1
+ignoring: 2121212124
+	2121212124, i: 3; j: 5; k: 2
+Skipping s 2121212124 for i 3
+	2121212124, i: 4; j: 5; k: 2
+Skipping s 2121212124 for i 4
+	2121212124, i: 5; j: 5; k: 2
+	 in the outer for loop
+	Comparing 2 at index 0 to 1 at index 5; i: 5; j: 1; k: 0
+	Comparing 1 at index 1 to 2 at index 6; i: 5; j: 1; k: 1
+	Comparing 2 at index 2 to 1 at index 7; i: 5; j: 1; k: 2
+	Comparing 1 at index 3 to 2 at index 8; i: 5; j: 1; k: 3
+	Comparing 2 at index 4 to 4 at index 9; i: 5; j: 1; k: 4
+ignoring: 2121212124
+	End iteration, returning 0
+Part 1 answer is 1227775554
+Part 2 answer is 4174379265
