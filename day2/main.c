@@ -25,7 +25,7 @@ int main() {
     puts("Failed to alloc memory");
     exit(-1);
   }
-  input_file = fopen("sample.txt", "r");
+  input_file = fopen("input.txt", "r");
 
   if (NULL == input_file) {
     puts("Failed to open file");
@@ -48,8 +48,9 @@ int main() {
   u64 i;
   for (i = 0; i < split_result.num_strs; i++) {
     String s = split_result.strs->arr[i];
-    part1_answer += num_invalid_inputs_per_range(&s).p1;
-    part2_answer += num_invalid_inputs_per_range(&s).p2;
+    results result = num_invalid_inputs_per_range(&s);
+    part1_answer += result.p1;
+    part2_answer += result.p2;
   }
 
 
@@ -78,7 +79,6 @@ results num_invalid_inputs_per_range(String* range) {
   ToU64Result end = str_to_u64(&range_strs.strs->arr[1]);
   for (i = start.result; i <= end.result; i++) {
     String* s = u64_to_str_or_die(i);
-    printf("Processing %s\n", s->str);
     if (str_is_invalid(s)) {
       invalid_nums_count_p1 += i;
     }
@@ -110,7 +110,6 @@ u64 str_is_invalid(String* s) {
 
   u64 i;
   for (i = 0; i < (s->size / 2); i++) {
-    /*printf("\tComparing %c to %c\n", s->str[i], s->str[i*2]);*/
     if (s->str[i] != s->str[i + (s->size / 2)]) {
       return 0;
     }
@@ -136,17 +135,13 @@ u64 str_is_invalid_part2(String* s) {
    * k is the index of the segment we're comparing in j.
    *   i.e. in 123123, j would be 0, 1, 2.
    */
-  printf("\tAbout to loop over %s, %zu\n", s->str, s->size);
   for (i = 1; i <= (s->size / 2); i++) {
-    printf("\t%s, i: %lu; j: %lu; k: %lu\n", s->str, i, j, k);
     i32 continue_outer = 0;
     if (s -> size % i != 0) {
-      printf("Skipping s %s for i %lu\n", s->str, i);
       continue;
     }
 
     for (j = 1; j < (s->size / i); j++) {
-      puts("\t in the outer for loop");
       for (k = 0; k < i; k++) {
         u64 cmp_idx = k + (j * i);
         if (cmp_idx > s-> size) {
@@ -154,20 +149,17 @@ u64 str_is_invalid_part2(String* s) {
           exit(-1);
         }
 
-        printf("\tComparing %c at index %lu to %c at index %lu; i: %lu; j: %lu; k: %lu\n", s->str[k], k, s->str[cmp_idx], cmp_idx, i, j, k);
         if (s->str[k] != s->str[cmp_idx]) {
           continue_outer = 1;
         }
       }
     }
     if (continue_outer) {
-      printf("ignoring: %s\n", s->str);
       continue;
     }
     printf("SUCCESSFUL_FIND: %s\n", s->str);
     return 1;
   }
-  printf("\tEnd iteration, returning 0\n");
 
 
   return 0;
