@@ -19,7 +19,7 @@ int main() {
     puts("Failed to alloc memory");
     exit(-1);
   }
-  input_file = fopen("sample.txt", "r");
+  input_file = fopen("input.txt", "r");
 
   if (NULL == input_file) {
     puts("Failed to open file");
@@ -45,7 +45,42 @@ int main() {
 }
 
 u32 part1_joltage_per_line(String* line) {
-  u32 joltage = 1;
+  Result r = strip_in_place(line);
+  if (r != SUCCESS) {
+    puts("Failed to strip in place");
+    exit(-1);
+  }
+  String number = *line;
+  u32 i, max_idx, max_idx_second_digit;
+  char max;
+  max = '0';
+  max_idx = -1;
+  for (i = 0; i < number.size - 1; i++) {
+    if(number.str[i] > max) {
+      max = number.str[i];
+      max_idx = i;
+    }
+  }
 
-  return joltage;
+  max = '0';
+  for (i = max_idx + 1; i < number.size ; i++) {
+    if(number.str[i] > max) {
+      max = number.str[i];
+      max_idx_second_digit = i;
+    }
+  }
+
+  char cstr[3];
+  cstr[0] = number.str[max_idx];
+  cstr[1] = number.str[max_idx_second_digit];
+  cstr[2] = '\0';
+  String* joltage_string = cstr_to_str_or_die(cstr, 2);
+  ToU64Result res = str_to_u64(joltage_string);
+  free_str_or_die(joltage_string);
+  if (res.status == SUCCESS) {
+    printf("Returning %lu for %s", res.result, line->str);
+    return (u32)res.result;
+  }
+  puts("shouldn't have gotten here");
+  exit(-1);
 }
