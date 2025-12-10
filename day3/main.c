@@ -20,7 +20,7 @@ int main() {
     puts("Failed to alloc memory");
     exit(-1);
   }
-  input_file = fopen("sample.txt", "r");
+  input_file = fopen("input.txt", "r");
 
   if (NULL == input_file) {
     puts("Failed to open file");
